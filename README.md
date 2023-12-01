@@ -33,9 +33,12 @@ make
 # 👥 Contribution and Development
 This project is a collaborative effort :
 
+clemedon
+
 <p align="center">
 <a href="http://github.com/lmelard" alt="lmelard github profile"><img src="https://github.com/lmelard.png" width="60px style="border-radius:50%"/></a>
 <a href="http://github.com/tiny-chris" alt="tiny-chris github profile"><img src="https://github.com/tiny-chris.png" width="60px style="border-radius:50%"/></a>
+<a href="http://github.com/clemedon" alt="clemedon github profile"><img src="https://github.com/clemedon.png" width="60px style="border-radius:50%"/></a>
 </p>
 
 
