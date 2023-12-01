@@ -7,7 +7,7 @@ The ft_irc project is a C++ based implementation of an IRC (Internet Relay Chat)
 # 💡 Epoll: Key Learning and Implementation
 This project highlights the use of epoll, a Linux I/O event notification facility, for efficient multi-socket monitoring.
 
-Epoll Explained: It's a high-performance tool in Linux for monitoring numerous file descriptors, crucial for scalable network servers.
+***Epoll Explained***: It's a high-performance tool in Linux for monitoring numerous file descriptors, crucial for scalable network servers.
 Usage in Project: epoll is employed to oversee client sockets, providing efficient handling of multiple connections.
 Setup and Execution
 
@@ -21,10 +21,10 @@ make
 - `password`: The server connection password.
 
 # 💻 Testing and Compatibility
-- Reference Client: `Irssi`, a command-line based IRC client, known for its reliability and widespread usage.
-- Additional Testing: Extensively tested with `netcat` (nc), ensuring compatibility and robustness.
-- Testing Scenarios: Stress testing network capabilities, handling client disconnections, and efficient broadcasting.
-- Compatibility: Developed and tested on various Linux distributions supporting epoll.
+- ***Reference Client***: `Irssi`, a command-line based IRC client, known for its reliability and widespread usage.
+- ***Additional Testing***: Extensively tested with `netcat` (nc), ensuring compatibility and robustness.
+- ***Testing Scenarios***: Stress testing network capabilities, handling client disconnections, and efficient broadcasting.
+- ***Compatibility***: Developed and tested on various Linux distributions supporting epoll.
 
 # Ressources
 - [Horse Doc - Modern IRC Documentation](https://modern.ircdocs.horse)
