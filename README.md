@@ -21,14 +21,14 @@ make
 - `password`: The server connection password.
 
 # 💻 Testing and Compatibility
-- Reference Client: Irssi, a command-line based IRC client, known for its reliability and widespread usage.
-- Additional Testing: Extensively tested with netcat (nc), ensuring compatibility and robustness.
+- Reference Client: `Irssi`, a command-line based IRC client, known for its reliability and widespread usage.
+- Additional Testing: Extensively tested with `netcat` (nc), ensuring compatibility and robustness.
 - Testing Scenarios: Stress testing network capabilities, handling client disconnections, and efficient broadcasting.
 - Compatibility: Developed and tested on various Linux distributions supporting epoll.
 
 # Ressources
-[Horse Doc - Modern IRC Documentation](https://modern.ircdocs.horse)
-[The method to epoll's madness](https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642)
+- [Horse Doc - Modern IRC Documentation](https://modern.ircdocs.horse)
+- [The method to epoll's madness](https://copyconstruct.medium.com/the-method-to-epolls-madness-d9d2d6378642)
 
 # 👥 Contribution and Development
 This project is a collaborative effort :
